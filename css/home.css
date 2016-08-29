@@ -1,0 +1,115 @@
+.text {
+    padding-top: 70px;
+}
+
+.slide {
+    background-size: cover;
+    height: 600px;
+    background-position: center;
+    width: 100%;
+}
+
+.first-slide {
+    background-image: url("../images/finger.jpg");
+    background-position: bottom;
+}
+
+.second-slide {
+    background-image: url("../images/app.jpg");
+}
+
+.third-slide {
+    background-image: url("../images/ofi.jpg");
+}
+#what{
+     background-image: url("../images/seven.jpg");
+     background-size: cover;
+     background-position: center;
+     margin:50px 0;
+     padding:50px;   
+}
+.what-text{
+  background-color:#fff;
+  padding:20px;
+}
+.what-text h2{
+  font-size:3em;
+}
+.what-text p{
+  font-size:1.2em;
+}
+#marketing {
+    padding: 30px;
+    padding-top: 40px;
+}
+
+.marketing-text {
+    margin:20px 40px;
+}
+
+.marketing-text h3 {
+    margin-top: 0;
+}
+/*.move{
+  background:#F5F5F5;
+}*/
+.project{
+    margin-top:50px;
+    margin-bottom:50px;
+}
+.thumbnail{
+  padding: 9px;
+  border: 1px solid rgba(111,107,107,0.26);
+  color: #34495E;
+  font-family: "Roboto";
+
+}
+.thumbnail h5{
+    overflow:hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+}
+.backred{
+    background-color: #E84C3D;
+    padding-top: 50px;
+    color: #ffffff;
+    padding-bottom:50px;
+
+}
+.what{
+    text-align:center;
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom: 30px;
+
+}
+/*.about{
+  background-color: #34495E;
+  color: #ffffff;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.red{
+  background-color: #E84C3D;
+  color: #ffffff;
+}
+.red:hover{
+  background-color:#ffffff;
+  color: #E84C3D;
+  border:1px solid #E84C3D;
+}
+.icon-flecha{
+  margin-right: 5px;
+}
+.blanca{
+  color: #ffffff;
+}
+.en .linea{
+  display:inline-block;
+}
+.final{
+  color: #ffffff;
+  background:#2C3E50;
+  padding-top: 35px;
+  padding-bottom: 37px;
+}*/

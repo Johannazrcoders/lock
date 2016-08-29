@@ -1,0 +1,193 @@
+/*utilities / Usa este código también */
+
+.text-white {
+    color: #fff;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+body {
+    background-color: #F5F5F5;
+}
+
+/*header*/
+
+header {
+    background-color: #34495E;
+    padding: 15px;
+}
+
+header i {
+    color: #1BBC9B;
+    margin-right: 5px;
+}
+
+ul {
+    margin-top: 20px;
+}
+
+nav ul a {
+    color: #97A1AA;
+    padding: 10px;
+}
+
+nav ul a:hover {
+    color: #fff;
+    background-color: #2C3E50;
+}
+
+.main-container-responsive {
+    background-color: #34495E;
+}
+
+.navbar-default .navbar-toggle{
+ border-color:#2C3E50;
+}
+
+.navbar.navbar-default {
+  border: none;
+}
+
+.navbar.navbar-default .navbar-collapse {
+  border: none;
+  box-shadow: none;
+}
+
+/*Footer*/
+
+footer {
+    background-color: #34495E;
+    padding: 15px;
+}
+
+footer p {
+    color: #97A1AA;
+}
+
+footer ul {
+    padding-left: 0;
+    margin-top: 0;
+}
+
+footer a {
+    color: #97A1AA;
+}
+
+footer a:hover {
+    color: #fff;
+}
+
+.blog-box {
+    margin-bottom: 25px;
+}
+
+footer img {
+    margin-right: 10px;
+}
+
+.footer-time {
+    font-size: 1rem;
+}
+
+.address p {
+    margin-bottom: 0;
+}
+
+form {
+    position: relative;
+}
+
+.input-text {
+    padding: 5px 15px;
+    border-radius: 3px;
+    border: none;
+    width: 100%;
+}
+
+.button {
+    background-color: #D9534E;
+    border: 1px solid #D9534E;
+    border-radius: 2px;
+    position: absolute;
+    width: 50px;
+    top: 0%;
+    right: 0%;
+    color: #fff;
+    padding: 4px;
+}
+
+#rights {
+    padding: 20px;
+    background-color: #2C3E50;
+}
+
+#rights p {
+    color: #97A1AA;
+}
+
+#rights ul a {
+    color: #97A1AA;
+    padding: 5px;
+    margin-top: 0;
+}
+
+#rights ul a:hover {
+    color: #fff;
+}
+
+#rights ul i {
+    color: #97A1AA;
+    font-size: 1.3rem;
+}
+
+#rights ul i:hover {
+    color: #fff;
+}
+i{
+    font-size:5em;
+}
+i:hover{
+    color:#005487;
+}
+.marketing-text:hover{
+    color: #005487;
+}
+
+/*green*/
+.green{
+	background-color:#01DF74;
+	padding-top:30px;
+	padding-bottom:30px;
+	color:white;
+}
+
+.left{
+	float:left;
+}
+.right{
+	float:right;
+	padding-top:60px;
+}
+.right a{
+	color:white;
+	padding: 10px;
+	text-decoration:none;
+}
