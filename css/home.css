@@ -10,27 +10,42 @@
 }
 
 .first-slide {
+/*    background-image: url("../images/finger.jpg");
+    background-position: bottom;*/
+    background-color: #525252;
     background-image: url("../images/finger.jpg");
+    background-blend-mode: color-burn;
     background-position: bottom;
 }
 
 .second-slide {
+    background-color: #525252;
     background-image: url("../images/app.jpg");
+    background-blend-mode: color-burn;
+    background-position: bottom;  
 }
 
 .third-slide {
+    background-color: #525252;
     background-image: url("../images/ofi.jpg");
+    background-blend-mode: color-burn;
+    background-position: bottom;  
 }
 #what{
+     background-color: #525252;
+     background-attachment: fixed;
      background-image: url("../images/seven.jpg");
+     background-blend-mode: color-burn;
      background-size: cover;
      background-position: center;
      margin:50px 0;
      padding:50px;   
 }
 .what-text{
-  background-color:#fff;
-  padding:20px;
+    color: #FFF;
+    /* background-color: #fff; */
+    padding: 20px;
+    font-size: 20px;
 }
 .what-text h2{
   font-size:3em;
@@ -53,7 +68,7 @@
 /*.move{
   background:#F5F5F5;
 }*/
-.project{
+/*.project{
     margin-top:50px;
     margin-bottom:50px;
 }
@@ -75,13 +90,51 @@
     color: #ffffff;
     padding-bottom:50px;
 
-}
+}*/
 .what{
     text-align:center;
     padding-left:20px;
     padding-right:20px;
     padding-bottom: 30px;
 
+}
+#learn{
+  padding:100px 0;
+}
+.door{
+  height:300px;
+  background-image:url("../images/icon.jpeg");
+  background-size:cover;
+  background-position:center;
+}
+.door-text{
+  padding-top:30px;
+}
+.contact{
+  background-blend-mode:color-burn;
+  margin:50px 0 0 0;
+  background-color:#01375D;
+  background-position:center;
+  background-size: cover;
+  opacity:0.9;
+  padding:3% 30%;
+}
+.contact h3{
+  font-size:3em;
+  color:#fff;
+}
+textarea{
+  margin-bottom:30px;
+}
+.pidelo{
+  border-color:#2EFE2E;
+  position:relative;
+  left:35%;
+  background-color:#2EFE2E;
+  margin:auto;
+}
+.pidelo:hover{
+  background-color:#82FA58;
 }
 /*.about{
   background-color: #34495E;

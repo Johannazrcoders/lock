@@ -1,5 +1,11 @@
 /*utilities / Usa este código también */
-
+h1{
+    font-size:4em;
+    padding-top: 10%;
+    padding-right:50%;
+    padding-left:5%;
+    text-transform: uppercase;
+}
 .text-white {
     color: #fff;
 }
@@ -30,22 +36,24 @@ body {
 
 /*header*/
 
-header {
-    background-color: #34495E;
+/*header {
+    background-color:transparent;
     padding: 15px;
-}
+}*/
 
-header i {
-    color: #1BBC9B;
-    margin-right: 5px;
+.logo{
+    width:150px;
 }
-
+/*
 ul {
-    margin-top: 20px;
+    margin-top: 50px;
+}*/
+.navbar-nav{
+    margin-top:15px;
+    margin-bottom: 0;
 }
-
-nav ul a {
-    color: #97A1AA;
+/*nav ul a {
+    color:#6E6E6E;
     padding: 10px;
 }
 
@@ -53,13 +61,13 @@ nav ul a:hover {
     color: #fff;
     background-color: #2C3E50;
 }
-
+*/
 .main-container-responsive {
     background-color: #34495E;
 }
 
 .navbar-default .navbar-toggle{
- border-color:#2C3E50;
+ border-color:transparent;
 }
 
 .navbar.navbar-default {
@@ -74,7 +82,7 @@ nav ul a:hover {
 /*Footer*/
 
 footer {
-    background-color: #34495E;
+    background-color: #01375D;
     padding: 15px;
 }
 
@@ -95,7 +103,7 @@ footer a:hover {
     color: #fff;
 }
 
-.blog-box {
+/*.blog-box {
     margin-bottom: 25px;
 }
 
@@ -160,7 +168,7 @@ form {
 
 #rights ul i:hover {
     color: #fff;
-}
+}*/
 i{
     font-size:5em;
 }
@@ -172,7 +180,7 @@ i:hover{
 }
 
 /*green*/
-.green{
+/*.green{
 	background-color:#01DF74;
 	padding-top:30px;
 	padding-bottom:30px;
@@ -190,4 +198,9 @@ i:hover{
 	color:white;
 	padding: 10px;
 	text-decoration:none;
+}
+*/
+.col-lg-6{
+    padding:0;
+    margin:0;
 }

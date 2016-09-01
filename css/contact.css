@@ -1,0 +1,19 @@
+.grey{
+	color:grey;
+}
+.btn{
+	color:white;
+	padding:10px;
+	font-size:1.5em;
+}
+
+.blue {
+    background-color:#0489B1;
+}
+
+textarea{
+	margin-top:50px;
+}
+iframe{
+	width:100% !important;
+}
